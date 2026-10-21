@@ -1,1 +1,7 @@
-{"version":"1.1","name":"PartyBoard Beta 1.1","released":"2026-10-19","page":"https://github.com/PaulGitHitGub/PartyBoard/releases/latest","notes":"Tells you on the home screen when a newer version is out."}
+{
+  "version": "1.2",
+  "name": "PartyBoard Beta 1.2",
+  "released": "2026-10-20",
+  "page": "https://github.com/PaulGitHitGub/PartyBoard/releases/latest",
+  "notes": "Continue saved online parties, vote to replace disconnected players, and fixes for cross-platform stability."
+}
