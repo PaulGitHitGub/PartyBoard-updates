@@ -1,7 +1,7 @@
 {
-  "version": "1.2",
-  "name": "PartyBoard Beta 1.2",
-  "released": "2026-10-20",
+  "version": "1.2.1",
+  "name": "PartyBoard Beta 1.2.1",
+  "released": "2026-10-25",
   "page": "https://github.com/PaulGitHitGub/PartyBoard/releases/latest",
-  "notes": "Continue saved online parties, vote to replace disconnected players, and fixes for cross-platform stability."
+  "notes": "New Picture setting (Widescreen or Original 4:3), widescreen online, steadier online games and cleaner text. Everyone must update to play online."
 }
