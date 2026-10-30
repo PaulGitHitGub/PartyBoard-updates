@@ -1,7 +1,7 @@
 {
-  "version": "1.2.1",
-  "name": "PartyBoard Beta 1.2.1",
-  "released": "2026-10-25",
+  "version": "1.2.2",
+  "name": "PartyBoard Beta 1.2.2",
+  "released": "2026-10-30",
   "page": "https://github.com/PaulGitHitGub/PartyBoard/releases/latest",
-  "notes": "New Picture setting (Widescreen or Original 4:3), widescreen online, steadier online games and cleaner text. Everyone must update to play online."
+  "notes": "Fixes a crash on Koopa's Seaside Soiree. Everyone must update to play online."
 }
